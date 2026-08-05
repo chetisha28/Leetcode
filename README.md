@@ -5,12 +5,14 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
