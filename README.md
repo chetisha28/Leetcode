@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chetisha28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chetisha28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
