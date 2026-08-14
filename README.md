@@ -56,6 +56,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
