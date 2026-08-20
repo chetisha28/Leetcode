@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chetisha28/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chetisha28/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
