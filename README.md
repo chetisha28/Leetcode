@@ -37,6 +37,7 @@
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chetisha28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chetisha28/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
