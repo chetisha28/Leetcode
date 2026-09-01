@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
@@ -92,6 +93,7 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/chetisha28/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0707-design-linked-list) |
 ## Design
@@ -102,4 +104,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
