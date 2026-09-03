@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chetisha28/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/chetisha28/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chetisha28/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
