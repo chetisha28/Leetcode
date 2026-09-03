@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
@@ -109,4 +111,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
