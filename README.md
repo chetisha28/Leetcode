@@ -15,6 +15,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetisha28/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chetisha28/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetisha28/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/chetisha28/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/chetisha28/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
