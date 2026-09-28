@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chetisha28/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -125,6 +126,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bucket Sort
 |  |
@@ -148,4 +150,8 @@
 | ------- |
 | [0078-subsets](https://github.com/chetisha28/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetisha28/Leetcode/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
