@@ -91,6 +91,7 @@
 | [0020-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetisha28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -130,6 +131,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetisha28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
