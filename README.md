@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/chetisha28/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetisha28/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chetisha28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -136,6 +137,7 @@
 | [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetisha28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
