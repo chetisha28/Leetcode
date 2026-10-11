@@ -16,6 +16,7 @@
 | [0739-daily-temperatures](https://github.com/chetisha28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chetisha28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetisha28/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chetisha28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -74,6 +75,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chetisha28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chetisha28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
