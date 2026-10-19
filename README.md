@@ -12,6 +12,7 @@
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/chetisha28/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/chetisha28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
@@ -34,6 +35,7 @@
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/chetisha28/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetisha28/Leetcode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +162,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +186,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
