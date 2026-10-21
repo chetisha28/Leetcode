@@ -104,6 +104,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetisha28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/chetisha28/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
