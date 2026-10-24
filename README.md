@@ -57,6 +57,7 @@
 | [0189-rotate-array](https://github.com/chetisha28/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chetisha28/Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/chetisha28/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chetisha28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chetisha28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chetisha28/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -103,6 +104,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetisha28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2409-count-days-spent-together](https://github.com/chetisha28/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetisha28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/chetisha28/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
