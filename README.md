@@ -16,6 +16,7 @@
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/chetisha28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/chetisha28/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chetisha28/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chetisha28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chetisha28/Leetcode/tree/master/0067-add-binary) |
+| [0946-validate-stack-sequences](https://github.com/chetisha28/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chetisha28/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetisha28/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
@@ -150,6 +152,7 @@
 | [0234-palindrome-linked-list](https://github.com/chetisha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/chetisha28/Leetcode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/chetisha28/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetisha28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chetisha28/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
