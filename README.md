@@ -16,6 +16,7 @@
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/chetisha28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/chetisha28/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
@@ -168,10 +170,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -211,4 +215,20 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/chetisha28/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
