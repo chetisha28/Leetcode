@@ -17,6 +17,7 @@
 | [0739-daily-temperatures](https://github.com/chetisha28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/chetisha28/Leetcode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/chetisha28/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetisha28/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chetisha28/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chetisha28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -39,11 +40,13 @@
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chetisha28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
@@ -196,6 +199,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Ordered Set
 |  |
 | ------- |
