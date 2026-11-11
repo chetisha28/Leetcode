@@ -11,6 +11,7 @@
 | [0090-subsets-ii](https://github.com/chetisha28/Leetcode/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/chetisha28/Leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/chetisha28/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/chetisha28/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/chetisha28/Leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetisha28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -230,5 +232,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/chetisha28/Leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/chetisha28/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
