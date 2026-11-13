@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/chetisha28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/chetisha28/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/chetisha28/Leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chetisha28/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/chetisha28/Leetcode/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/chetisha28/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/chetisha28/Leetcode/tree/master/0189-rotate-array) |
@@ -208,6 +209,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chetisha28/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/chetisha28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/chetisha28/Leetcode/tree/master/0456-132-pattern) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chetisha28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
